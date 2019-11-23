@@ -6,7 +6,7 @@
   function MainControllerfn() {
     mainVm = this;
     mainVm.addPerson = function(){
-      alert('form is submitted!!!');
+      
       console.log("File changes");
     }
   
