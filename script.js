@@ -6,9 +6,9 @@
   function MainControllerfn() {
     mainVm = this;
     mainVm.addPerson = function(){
-      
-      alert("Files changes");
-      alert("Files changes");
+      var a = 5+10;
+      console.log(a);    
+      alert("Files Changed");  
     }
   
 
