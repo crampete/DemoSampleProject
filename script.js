@@ -8,6 +8,7 @@
     mainVm.addPerson = function(){
       
       alert("Files changes");
+      alert("Files changes");
     }
   
 
