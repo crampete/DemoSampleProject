@@ -7,7 +7,8 @@
     mainVm = this;
     mainVm.addPerson = function(){
       var a = 5+10;
-      console.log(a);      
+      console.log(a);    
+      alert("Files Changed");  
     }
   
 
