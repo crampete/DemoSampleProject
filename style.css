@@ -6,7 +6,6 @@
 .has-error p{
   color:red;  
   background: beige;
-  margin-right:25px;
 }
 
 .glyphicon {
