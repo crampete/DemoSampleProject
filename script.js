@@ -12,5 +12,5 @@
 
     mainVm.people = [{}]
 
-    console.log("Results File changes"); 
+    
   }
