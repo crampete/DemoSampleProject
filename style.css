@@ -4,8 +4,8 @@
 } */
 
 .has-error p{
-  color:red; 
-  
+  color:red;  
+  background: beige;
 }
 
 .glyphicon {
