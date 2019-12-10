@@ -6,7 +6,8 @@
   function MainControllerfn() {
     mainVm = this;
     mainVm.addPerson = function(){
-        
+      var Add = 10+5;
+      console.log("Results : " + Add);  
     }
   
 
